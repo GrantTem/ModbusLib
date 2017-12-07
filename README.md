@@ -1,5 +1,5 @@
 # ModbusLib
-Modbus library C#
+Modbus library C# for higher-computer(PC)
 
 I only write two Modbus Register types in this project now: 
 
